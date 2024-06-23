@@ -18,7 +18,7 @@ Table of Contents
         Usage
 
     • Project 2: Advertisement Click Prediction
-    
+
         Introduction
         Data
         Features
@@ -142,5 +142,7 @@ A logistic regression model is used to predict the Clicked on Ad status based on
 
     Evaluate the model on the testing data.
 
-    Use the model to predict whether a user will click on an ad based on their features.
+    Use the model to predict whether a user will click on an ad based on features.
+
+
 
