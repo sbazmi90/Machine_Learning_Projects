@@ -2,12 +2,10 @@ Machine Learning Projects: Logistic Regression
 
 • This repository contains simple machine learning projects to demonstrate the use of logistic regression in predicting binary 
 
-outcomes based on input data. The projects are designed to help beginners understand the basics of logistic regression and how 
-
-to apply it to real-world problems.
+outcomes based on input data.
 
 
-Table of Contents
+Table of Contents:
 
     • Project 1: Titanic Survival Prediction
 
