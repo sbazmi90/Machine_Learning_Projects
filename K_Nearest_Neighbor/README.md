@@ -9,11 +9,11 @@ This repository contains simple machine learning projects to demonstrate the use
 
 Table of Contents
 
-    $\bullet$ Project 1: Classification with KNN
+    • Project 1: Classification with KNN
         Introduction
         Model
         Usage
-    $\bullet$ Project 2: Regression with KNN
+    • Project 2: classification with KNN
         Introduction
         Model
         Usage
@@ -40,15 +40,15 @@ Usage
     Evaluate the model on the testing data.
     Use the model to classify new data points.
 
-## Project 2: Regression with KNN
+## Project 2: classification with KNN
 
 Introduction
 
-In this project, we aim to predict continuous outcomes using the K-Nearest Neighbors (KNN) algorithm for regression. KNN regression predicts the value of a target variable based on the average (or weighted average) of the values of its k-nearest neighbors.
+In this project, we aim to predict continuous outcomes using the K-Nearest Neighbors (KNN) algorithm for classification. KNN classification predicts the value of a target variable based on the average (or weighted average) of the values of its k-nearest neighbors.
 
 Model
 
-We will use the KNN algorithm for regression, which will predict the value of a data point based on the average value of its k-nearest neighbors.
+We will use the KNN algorithm for classification, which will predict the value of a data point based on the average value of its k-nearest neighbors.
 
 Usage
 
