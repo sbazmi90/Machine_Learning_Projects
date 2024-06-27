@@ -17,9 +17,7 @@ Table of Contents
         Introduction
         Model
         Usage
-    Installation
-    Contributing
-    License
+
 
 ## Project 1: Classification with KNN
 
