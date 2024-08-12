@@ -32,7 +32,7 @@ Objectives
 The SVM model achieved high accuracy in classifying tumors, demonstrating its effectiveness in distinguishing between malignant and benign cases. GridSearchCV helped in identifying the best hyperparameters, enhancing the model's performance.
 
     
-## Project 2: Decision Trees and Random Forest for Lending Club Loan Data
+## Project 2: SVM for Iris Species Classification
 
 ### Overview
 
