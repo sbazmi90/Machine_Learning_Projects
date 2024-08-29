@@ -1,7 +1,7 @@
 Machine Learning Projects: Recommender System
 
 
-Welcome to my GitHub repository showcasing two projects utilizing PCA. 
+Welcome to my GitHub repository showcasing two projects utilizing Recommender System. 
 
 
 ## Project: Movie Recommender System
